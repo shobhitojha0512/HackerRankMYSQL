@@ -1,0 +1,3 @@
+Select Distinct Name
+From City
+where COUNTRYCODE= 'USA' and POPULATION > 120000;
